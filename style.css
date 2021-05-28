@@ -1,6 +1,6 @@
 body {
     font-family: cursive;
-    background-color:#AFDAFC;
+    background-color:#CCCCFF;
 }
 body::before{
     content:url();
